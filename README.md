@@ -155,3 +155,10 @@ Homepage hero updated with the venue, dates, session count and cohort cap, and t
 - Free guide form now collects a phone number as well as first name and email, on both the homepage and the Crash Course page. The field is required and the number is included in the emailed submission.
 - Cohort cap removed everywhere. "Capped at 10 students per subject" is gone from the format panel, the intro copy, the booking section, the final call to action, the homepage hero and the FAQ (including the FAQ structured data). Replaced with "small groups" and "limited places".
 - TopMark textbook added: every student receives a TopMark textbook for each subject they enrol in. Mentioned in the format panel, the intro copy, the session structure intro, the pricing fine print, the meta description, the homepage hero and promo panel, and as a new FAQ ("Do I get any materials to keep?") with matching structured data.
+
+## V21 update
+
+- Free guide PDF rebuilt (assets/pdfs/topmark-14-sace-dotpoints.pdf): the TopMark logo now appears on the cover in a white lockup and as a small mark in every page footer. All em dashes removed from the guide copy. Crash Course pricing on the final page updated to "From $349" and the TopMark textbook inclusion added. Source: /root/work/guide/guide.html, rendered to A4 PDF.
+- Guide cover thumbnail on the website regenerated from the new PDF.
+- Ahmed's founder photo replaced with the new supplied image, cropped to the same 2:3 portrait (1024x1536) used elsewhere.
+- Favicons added: favicon.ico at the site root plus 16, 32, 48, 192 and 512 px PNGs and an apple-touch-icon, generated from the logo emblem. Linked in the head of all 15 pages, with site.webmanifest and a theme-color meta.
