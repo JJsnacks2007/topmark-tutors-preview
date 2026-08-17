@@ -171,3 +171,10 @@ Homepage hero updated with the venue, dates, session count and cohort cap, and t
 - New Referral program section on crash-course.html (#referral, dark panel between pricing and the booking form): $30 for the referrer, 10 per cent off for the referred student, with a three-step how-it-works and a note that referrals are confirmed once the referred student has paid.
 - Two new FAQs with matching structured data: paying a deposit, and how the referral program works.
 - Homepage hero note and promo panel now mention the $99 deposit and the referral offer.
+
+## V23 update
+
+- Fieldset headings on the booking form ("What would you like to do?", "Which subjects?", "Payment") now sit fully on the white card above their cream boxes instead of straddling the border. Done by absolutely positioning the legend above the fieldset (CSS V23 block), which also lets the fieldset draw an unbroken top border and lines the headings up with the other field labels.
+- Flinders University City campus removed as the venue. The crash course now reads "in person in Adelaide" in the hero eyebrow, the format panel, the intro copy, the meta description and the homepage hero line. The venue FAQ now says "In person in Adelaide... We confirm the exact venue with you when you book", and the Course structured data location is Adelaide, SA.
+- The free guide PDF was rebuilt with the same venue change on its final page, and the cover thumbnail regenerated.
+- Note: Flinders references on about.html (the founders as Flinders medical students) and in the UCAT blog post (Flinders as a UCAT university) are credentials and facts, not the venue, and were intentionally left alone.
