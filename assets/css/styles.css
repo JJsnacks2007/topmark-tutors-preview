@@ -476,3 +476,8 @@
 .summary-deposit{color:var(--gold);font-size:.88rem;font-weight:850;margin:8px 0 0}
 .pay-note strong{color:var(--ink);font-weight:950}
 @media(max-width:980px){.referral-grid{grid-template-columns:1fr}}
+
+
+/* V23: lift fieldset legends above the cream block onto the white card */
+.form-block{position:relative;margin-top:15px}
+.contact-form .form-block>legend{position:absolute;top:-24px;left:1px;padding:0;margin:0;line-height:1.2}
