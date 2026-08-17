@@ -162,3 +162,12 @@ Homepage hero updated with the venue, dates, session count and cohort cap, and t
 - Guide cover thumbnail on the website regenerated from the new PDF.
 - Ahmed's founder photo replaced with the new supplied image, cropped to the same 2:3 portrait (1024x1536) used elsewhere.
 - Favicons added: favicon.ico at the site root plus 16, 32, 48, 192 and 512 px PNGs and an apple-touch-icon, generated from the logo emblem. Linked in the head of all 15 pages, with site.webmanifest and a theme-color meta.
+
+## V22 update
+
+- Booking form "Promo code" field renamed to "Promo code or referral source" (field name promo_or_referral), with a placeholder prompting either a code or the referrer's name.
+- New Payment block on the booking form: states that a $99 deposit secures a place with the balance due before the first session, plus a checkbox "I would like to discuss payment options" (field name payment_options).
+- Deposit noted in the price summary panel, the payment details panel, and the pricing fine print.
+- New Referral program section on crash-course.html (#referral, dark panel between pricing and the booking form): $30 for the referrer, 10 per cent off for the referred student, with a three-step how-it-works and a note that referrals are confirmed once the referred student has paid.
+- Two new FAQs with matching structured data: paying a deposit, and how the referral program works.
+- Homepage hero note and promo panel now mention the $99 deposit and the referral offer.
